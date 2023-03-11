@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Himali Suroshi",
+    "emailid": "1234@gmail.com",
+    "username": "234234234",
+    "password": "anything..."
+  },
+  {
+    "name": "Suhas Keshava",
+    "emailid": "any@gmail.com",
+    "username": "78946513231",
+    "password": "anything...anythning"
+  },
+  {
+    "name": "Mrunal Misale",
+    "emailid": "xyz@gmail.com",
+    "username": "5667979451",
+    "password": "$2b$10$kDJ.2MMdNF2aqs9cLLwm/.7vYxxVoZKZbADs2hG2S155JnvGQaTaa"
+  },
+  {
+    "name": "Mohd Faizan Khan",
+    "emailid": "abcd@abcd.com",
+    "username": "faizan",
+    "password": "$2b$10$EuRBYarNlx03sx22Nu4dquXBRD62AYVxNSDbEzBAezIh1g2huO3G6"
+  }
+]
